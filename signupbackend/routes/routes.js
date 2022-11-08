@@ -1,8 +1,9 @@
 const express = require('express');
 const router = express.Router()
+const signUpTemplateCopy = require('../models/SignUpModels');
 
 router.post('/signup', (req, res) => {
-    response.send('send')
+    
 })
 /**test */
 module.exports = router;
