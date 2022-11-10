@@ -27,7 +27,7 @@ ___________
 ### Photos of project:
 ![](images/mern_photo1.png)
 ![](images/mern_photo2.png)
-![](images/meern_photo3.png)
+![](images/mern_photo3.png)
 
 ## Apps used:
 	- Postman 
